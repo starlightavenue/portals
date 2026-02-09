@@ -1,5 +1,5 @@
 # portals
-## Portals
+## Magically Fix Insurance Claims
 This project will let users toggle back and forth between various interfaces:
 
 - A Patient Health Insurance Portal
