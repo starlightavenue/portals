@@ -1,10 +1,9 @@
 # Magically Fix Insurance Claims
 ## Scope
-This project will let users toggle back and forth between various interfaces:
+This project will let users toggle back and forth between two interfaces:
 
 - A Patient Health Insurance Portal
-- A Medical Provider Message Portal
-- An Insurace Agent Message Portal
+- A Patient Healthcare Portal
 
 The aim is to solve issues with medical insurance claims and prevent the patient from losing their mind over stress.
 
